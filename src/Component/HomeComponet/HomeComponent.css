@@ -1,0 +1,22 @@
+center {
+    color: rgb(56, 50, 50);
+    font-size: 20px;
+    padding-top: 200px;
+  }
+
+  .main {
+    background-image: url("C:\Users\2003n\Documents\SEC\MErn\React\Day3\Assignment\SEC Website\src\assets\secbg.jpg");
+    background-size: 1800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 680px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h2 {
+    font-weight: 550;
+    color: rgb(28, 26, 26);
+    background-color: aliceblue;
+  }
