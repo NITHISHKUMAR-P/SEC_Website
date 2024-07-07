@@ -5,17 +5,23 @@ center {
   }
 
   .main {
-    background-image: url("C:\Users\2003n\Documents\SEC\MErn\React\Day3\Assignment\SEC Website\src\assets\secbg.jpg");
-    background-size: 1800px;
+    background-image: url("C:\Users\2003n\Documents\SEC\MErn\React\Day-5\Website\src\assets\gamebg.jpg");
+    background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    height: 680px;
+    height: 1080px;
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap
   }
   
   h2 {
+    font-weight: 550;
+    color: rgb(28, 26, 26);
+    background-color: aliceblue;
+  }
+h1 {
     font-weight: 550;
     color: rgb(28, 26, 26);
     background-color: aliceblue;

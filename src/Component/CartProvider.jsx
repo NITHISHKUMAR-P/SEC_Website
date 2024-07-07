@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import './index.css'
-import { CartProvider } from './Component/CartContext';
+import { CartProvider } from './CartContext';
 
 ReactDOM.render(
   <CartProvider>
@@ -10,4 +9,3 @@ ReactDOM.render(
   </CartProvider>,
   document.getElementById('root')
 );
-
